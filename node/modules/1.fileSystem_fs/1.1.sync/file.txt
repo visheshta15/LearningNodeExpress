@@ -1,0 +1,2 @@
+writing again in the same file.
+appending in the same file, the file which is created previously
